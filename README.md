@@ -71,5 +71,5 @@ BattleBot is an autonomous Arduino Nano robot designed to compete in various rac
 This project was implemented by Group TD-INF-IT1C:
 
 * Jakub Mazur
-* Rodrigo de Araújo Castanheira
+* Rodrigo de Araújo Castanheira.
 
