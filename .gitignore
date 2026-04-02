@@ -1,0 +1,11 @@
+*.hex
+*.elf
+*.bin
+*.exe
+
+*.log
+*.tmp
+
+.DS_STORE
+Thumbs.db
+.vscode/
