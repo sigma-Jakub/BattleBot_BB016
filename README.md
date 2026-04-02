@@ -64,6 +64,8 @@ BattleBot is an autonomous Arduino Nano robot designed to compete in various rac
 
 * Race Final Code: The [battlebot_race_day_final/](./battlebot_race_day_final/) folder contains the optimized, final code used during the race event.
 
+* Repository Origins: This repository is an organized version of the original "demo" and practice files used during the project. It has been restructured to provide a clear and professional view.
+
 ## Project Contributors
 
 This project was implemented by Group TD-INF-IT1C:
