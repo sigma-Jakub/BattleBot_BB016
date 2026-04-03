@@ -60,6 +60,8 @@ BattleBot is an autonomous Arduino Nano robot designed to compete in various rac
 
 * Learning Foundation: The [week_assignments/](./week_assignments/) folder contains various Arduino exercises developed during the learning phase. These served as preparation for the final race logic.
 
+* Project Documentation: The [documents/](./documents/) folder contains all the neccessary documentation written throughout the project. It includes files which were made by the entire group, our subgroup and individual members files.
+
 * Documentation Scope: To maintain clarity, this README file only maps the hardware and pin configurations used in the final code. Some of the assignments might use different pins for the same hardware or different components which were not found useful enough to be used in the final project.
 
 * Race Final Code: The [battlebot_race_day_final/](./battlebot_race_day_final/) folder contains the optimized, final code used during the race event.
