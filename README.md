@@ -73,3 +73,7 @@ This project was implemented by Group TD-INF-IT1C:
 * Jakub Mazur
 * Rodrigo de Araújo Castanheira
 
+## Other Team Members Repositories
+
+* [Justinas and Oleh](https://github.com/JustinasLaunikonis/BattleBot-Robobr)
+* [Annemiek and Herbert](https://github.com/HerbertDJD/Battlebot_BB032)
